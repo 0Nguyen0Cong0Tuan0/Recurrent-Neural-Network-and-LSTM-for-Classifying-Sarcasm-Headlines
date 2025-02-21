@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Usage
 1. Open the Jupyter Notebook (`main.ipynb`).
 2. Follow the steps to train the model using the provided text corpus.
-3. Provide a seed text to generate new text predictions.
+3. Provide input sentences to classify whether are the sarcasm headlines or not.
 
 ## Requirements
 - Python 3.12+
