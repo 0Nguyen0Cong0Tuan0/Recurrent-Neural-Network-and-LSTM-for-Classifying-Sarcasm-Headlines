@@ -1,0 +1,10 @@
+bs4
+json
+matplotlib
+numpy
+pandas
+seaborn
+spacy
+string
+tensorflow
+tensorflow_datasets
