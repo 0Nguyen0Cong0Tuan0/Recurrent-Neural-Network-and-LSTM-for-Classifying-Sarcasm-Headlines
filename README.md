@@ -1,10 +1,10 @@
-# Recurrent Neural Networks for Classifying Sarcasm Headlines
+# Recurrent Neural Network and LSTM for Classifying Sarcasm Headlines
 
 ## Overview
-This project explores Recurrent Neural Networks (RNNs) for Natural Language Processing (NLP), demonstrating how sequence information can be learned, and how this information can be used to create a type of model that is better able to understand text.
+This project explores Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) architectures for Natural Language Processing (NLP), demonstrating how sequence information can be learned, and how this information can be used to create a type of model that is better able to understand text.
 
 ## Features
-- Implementation of RNNs for text sequence modeling.
+- Implemented RNNs and bidirectional LSTMs for sarcasm classification in text.
 - Training a model to classify the sarcasm headlines.
 
 ## Installation
